@@ -9,7 +9,7 @@ Hi there! I'm Linus, a cybersecurity and coding enthusiast on a mission to autom
 ## Links
 
 <a href="https://linusjung.dev" target="_blank">
-Personal website
+linusjung.dev
 </a>
 <br>
 <a href="https://github.com/lynusdev" target="_blank">
