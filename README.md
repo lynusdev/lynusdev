@@ -1,14 +1,14 @@
-Hey there, I'm Linus!
+Hey there👋, I'm Linus!
 =================================================================================================================================
 <a href="https://linusjung.dev" target="_blank">
 Personal website
 </a>
 <br>
-<a href="https://github.com/flixoflax" target="_blank">
+<a href="https://github.com/lynusdev" target="_blank">
 GitHub
 </a>
 <br>
-<a href="https://linkedin.com/in/niels-legolas-clormann" target="_blank">
+<a href="https://linkedin.com/in/linus-jung" target="_blank">
 LinkedIn
 </a> 
 
