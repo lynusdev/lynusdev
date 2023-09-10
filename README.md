@@ -5,6 +5,7 @@ Hi there! I'm Linus, a cybersecurity and coding enthusiast on a mission to autom
 * I'm based in Germany
 * Learn more about me at [linusjung.dev](https://linusjung.dev)
 * You can contact me at [contact@linusjung.dev](mailto:contact@linusjung.dev)
+
 =================================================================================================================================
 <a href="https://linusjung.dev" target="_blank">
 Personal website
