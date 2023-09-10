@@ -1,7 +1,5 @@
 # Hey there👋, I'm Linus!
 
----
-
 Hi there! I'm Linus, a cybersecurity and coding enthusiast on a mission to automate tasks and constantly learn new things. Whether it's securing your digital world or making life easier through automation, I'm here to make it happen. Let's explore the world of innovation together! 🔒💻🚀
 
 * I'm based in Germany
