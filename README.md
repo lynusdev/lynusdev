@@ -1,4 +1,4 @@
-Hey there👋, I'm Linus!
+# Hey there👋, I'm Linus!
 
 ---
 
