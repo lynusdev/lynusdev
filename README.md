@@ -8,12 +8,6 @@ I'm Linus, a cybersecurity and coding enthusiast on a mission to automate tasks 
 
 ## Links
 
-[![linusjung.dev]([https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://linusjung.dev/)
-<br>
-<a href="https://github.com/lynusdev" target="_blank">
-GitHub
-</a>
-<br>
 <a href="[https://linkedin.com/in/niels-legolas-clormann](https://www.linkedin.com/in/linus-jung/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
