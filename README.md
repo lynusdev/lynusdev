@@ -1,6 +1,6 @@
 # Hey there👋, I'm Linus!
 
-Hi there! I'm Linus, a cybersecurity and coding enthusiast on a mission to automate tasks and constantly learn new things. Whether it's securing your digital world or making life easier through automation, I'm here to make it happen. Let's explore the world of innovation together! 🔒💻🚀
+I'm Linus, a cybersecurity and coding enthusiast on a mission to automate tasks and constantly learn new things. Whether it's securing your digital world or making life easier through automation, I'm here to make it happen. Let's explore the world of innovation together! 🔒💻🚀
 
 * I'm based in Germany
 * Learn more about me at [linusjung.dev](https://linusjung.dev)
@@ -8,9 +8,7 @@ Hi there! I'm Linus, a cybersecurity and coding enthusiast on a mission to autom
 
 ## Links
 
-<a href="https://linusjung.dev" target="_blank">
-linusjung.dev
-</a>
+[![linusjung.dev]([https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://linusjung.dev/)
 <br>
 <a href="https://github.com/lynusdev" target="_blank">
 GitHub
