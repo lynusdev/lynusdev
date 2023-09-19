@@ -8,7 +8,7 @@
 <a href="https://linusjung.dev" target="_blank">
 <img src=https://img.shields.io/badge/linusjung.dev-4A4B4D.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<br>
+
 I'm Linus, a cybersecurity and coding enthusiast on a mission to automate tasks and constantly learn new things. Whether it's securing your digital world or making life easier through automation, I'm here to make it happen. Let's explore the world of innovation together! 🔒💻🚀
 
 * I'm based in Germany
